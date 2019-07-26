@@ -7,3 +7,4 @@ int main(void)
 	return 0;
 }
 
+// this is a test line which test the window echo insert funtion 
