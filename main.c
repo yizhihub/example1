@@ -8,3 +8,4 @@ int main(void)
 }
 
 // this is a test line which test the window echo insert funtion 
+// use the mayun for the first time
